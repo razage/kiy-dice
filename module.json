@@ -1,0 +1,24 @@
+{
+    "id": "kiy-dice",
+    "title": "KiY Dice",
+    "description": "A set of dice for a Delta Green campaign.",
+    "authors": [{ "name": "razage" }],
+    "version": "1.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11.315"
+    },
+    "scripts": ["kiy.js"],
+    "relationships": {
+        "requires": [
+            {
+                "id": "dice-so-nice",
+                "type": "module"
+            }
+        ]
+    },
+    "license": "LICENSE",
+    "url": "https://github.com/razage/kiy-dice",
+    "manifest": "https://raw.githubusercontent.com/razage/kiy-dice/master/module.json",
+    "download": "https://github.com/razage/kiy-dice/archive/refs/heads/master.zip"
+}
