@@ -3,10 +3,10 @@
     "title": "KiY Dice",
     "description": "A set of dice for a Delta Green campaign.",
     "authors": [{ "name": "razage" }],
-    "version": "1.0",
+    "version": "1.01",
     "compatibility": {
         "minimum": "11",
-        "verified": "11.315"
+        "verified": "12.327"
     },
     "scripts": ["kiy.js"],
     "relationships": {
